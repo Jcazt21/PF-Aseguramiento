@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "React",
+    "id": "651464fbd8c9ca1ccaba242d",
+    "framework": "react",
+    "typescript": true,
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Pascal Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\jeanc\\Desktop\\aseg\\2\\src\\components",
+    "screensPath": "c:\\Users\\jeanc\\Desktop\\aseg\\2\\src\\pages"
+  }
+}

@@ -1,0 +1,35 @@
+.userChild {
+  position: absolute;
+  height: 55.56%;
+  width: 72.22%;
+  top: 63.89%;
+  right: 13.89%;
+  bottom: -19.44%;
+  left: 13.89%;
+  border-radius: 50%;
+  border: 2px solid var(--line-icon);
+  box-sizing: border-box;
+}
+.userItem {
+  position: absolute;
+  height: 38.89%;
+  width: 38.89%;
+  top: 13.89%;
+  right: 30.56%;
+  bottom: 47.22%;
+  left: 30.56%;
+  border-radius: 50%;
+  border: 2px solid var(--line-icon);
+  box-sizing: border-box;
+}
+.user1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+}

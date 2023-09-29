@@ -1,0 +1,306 @@
+.sidePanelLeftIcon {
+  position: absolute;
+  top: 141px;
+  left: 0px;
+  width: 400px;
+  height: 939px;
+  object-fit: cover;
+}
+.logoUnitechIcon {
+  position: relative;
+  width: 141px;
+  height: 141px;
+  object-fit: cover;
+}
+.txtUnitech {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-lato);
+  color: var(--color-dodgerblue);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 212px;
+  height: 71px;
+  flex-shrink: 0;
+}
+.logo1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 141px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.txtLogout {
+  position: absolute;
+  height: 75%;
+  width: 72%;
+  top: 12.12%;
+  left: 13.94%;
+  font-size: var(--font-size-6xl-5);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-crimson);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxLogout {
+  cursor: pointer;
+  border: 3px solid var(--color-crimson);
+  padding: 0;
+  background-color: var(--color-lightgray);
+  position: relative;
+  border-radius: var(--br-2xs);
+  box-sizing: border-box;
+  width: 330px;
+  height: 49.5px;
+}
+.btnLogout1 {
+  cursor: pointer;
+  border: none;
+  padding: 0.007864524610340595px 0.001190185546875px 0.0000013811513781547546px
+    var(--padding-0);
+  background-color: transparent;
+  position: absolute;
+  top: 1008px;
+  left: 35px;
+  width: 330px;
+  height: 49.51px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+}
+.fileIcon1 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.visualizarPensum1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.btnVisualizarpensum {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 885px;
+  left: 28px;
+  width: 335px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.userCircleIcon1 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.btnPerfil1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 364px;
+  left: 35px;
+  width: 132px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.verCalificaciones {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.btnCalificaciones1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 537px;
+  left: 28px;
+  width: 337px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.asignaturasWrapper {
+  width: 195px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.btnAsignaturas1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 711px;
+  left: 28px;
+  width: 243px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.panel {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+}
+.btnPanel3 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  width: 135px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.btnPanel2 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 187px;
+  left: 32px;
+  width: 174px;
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.nombre {
+  position: absolute;
+  top: 432px;
+  left: 1113px;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.apellido {
+  position: absolute;
+  top: 477px;
+  left: 1109px;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.carrera {
+  position: absolute;
+  top: 522px;
+  left: 1112px;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.idUsuario {
+  position: absolute;
+  top: 612px;
+  left: 1103px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+}
+.estudiante {
+  position: absolute;
+  top: 567px;
+  left: 1101px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+}
+.registradoDesdeDdmmaaa {
+  position: absolute;
+  top: 657px;
+  left: 1009px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+}
+.perfil1 {
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

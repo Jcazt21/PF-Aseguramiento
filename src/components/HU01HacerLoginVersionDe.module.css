@@ -1,0 +1,100 @@
+.id {
+  position: absolute;
+  top: 239px;
+  left: 392px;
+  font-weight: 500;
+  text-align: left;
+}
+.contrasea {
+  position: absolute;
+  top: 295px;
+  left: 392px;
+  font-weight: 500;
+  text-align: left;
+}
+.iniciarSesion {
+  position: absolute;
+  top: 511px;
+  left: 319px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.recuperarContrasea {
+  position: absolute;
+  top: 393px;
+  left: 463px;
+  font-size: 10px;
+  color: var(--color-cornflowerblue);
+}
+.viewAllButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-6xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iniciaSesion {
+  position: absolute;
+  height: 75%;
+  width: 72%;
+  top: 14.29%;
+  left: 14%;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.viewAllButton1 {
+  position: absolute;
+  height: 6.67%;
+  width: 19.27%;
+  top: 65.19%;
+  right: 40.1%;
+  bottom: 28.15%;
+  left: 40.63%;
+  font-size: var(--font-size-mini);
+  color: var(--color-whitesmoke-100);
+}
+.hu01HacerLoginVersionDeChild {
+  position: absolute;
+  top: 260px;
+  left: 387px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-crimson);
+  box-sizing: border-box;
+  width: 191px;
+  height: 28px;
+}
+.hu01HacerLoginVersionDeItem {
+  position: absolute;
+  top: 318px;
+  left: 387px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-crimson);
+  box-sizing: border-box;
+  width: 191px;
+  height: 28px;
+}
+.hu01HacerLoginVersionDe {
+  position: relative;
+  background-color: var(--color-white);
+  width: 960px;
+  height: 540px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

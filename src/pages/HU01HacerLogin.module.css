@@ -1,0 +1,146 @@
+.id {
+  position: absolute;
+  top: 416px;
+  left: 784px;
+  font-weight: 500;
+}
+.contrasea {
+  position: absolute;
+  top: 531px;
+  left: 784px;
+  font-weight: 500;
+}
+.iniciarSesion {
+  position: absolute;
+  top: 686px;
+  left: 868px;
+  color: var(--color-white);
+  text-align: center;
+}
+.recuperarContrasea1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 750px;
+  left: 955px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-lato);
+  color: var(--color-cornflowerblue);
+  text-align: center;
+  display: inline-block;
+}
+.whatsappImage20230908At2 {
+  position: relative;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.unitech {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.whatsappImage20230908At2Parent {
+  text-decoration: none;
+  position: absolute;
+  top: 305px;
+  left: 844px;
+  height: 96px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+  color: var(--color-dodgerblue);
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iniciaSesion {
+  position: absolute;
+  height: 75%;
+  width: 72%;
+  top: 14.29%;
+  left: 14%;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vectorParent {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.viewAllButton1 {
+  position: absolute;
+  top: 663px;
+  left: 769px;
+  width: 383px;
+  height: 56px;
+}
+.hu01HacerLoginChild {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 460px;
+  left: 769px;
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+  width: 383px;
+  height: 56px;
+}
+.hu01HacerLoginItem {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 575px;
+  left: 769px;
+  border-radius: var(--br-mini);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 383px;
+  height: 56px;
+}
+.hu01HacerLogin {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

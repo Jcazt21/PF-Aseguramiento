@@ -1,0 +1,82 @@
+.reestablecimientoDeContrase1 {
+  position: absolute;
+  top: 466px;
+  left: 692px;
+  font-size: 36px;
+}
+.introduzcaSuId1 {
+  position: absolute;
+  top: 561px;
+  left: 775px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.iniciarSesion {
+  position: absolute;
+  top: 708px;
+  left: 868px;
+  color: var(--color-white);
+  text-align: center;
+}
+.viewAllButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recuperar {
+  position: absolute;
+  height: 75%;
+  width: 72%;
+  top: 14.29%;
+  left: 14%;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.viewAllButton1 {
+  position: absolute;
+  height: 6.67%;
+  width: 19.27%;
+  top: 63.06%;
+  right: 40.36%;
+  bottom: 30.28%;
+  left: 40.36%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-whitesmoke-100);
+}
+.hu06RecuperarContraseaChild {
+  position: absolute;
+  top: 604px;
+  left: 768px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 383px;
+  height: 56px;
+}
+.hu06RecuperarContrasea {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dodgerblue);
+  font-family: var(--font-lato);
+}

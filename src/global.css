@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+  --font-size-9xl: 28px;
+  --font-size-6xl-5: 25.5px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-whitesmoke-100: #f2f2f2;
+  --color-dodgerblue: #3d87ff;
+  --color-cornflowerblue: #69a2ff;
+  --color-crimson: #e81123;
+  --line-icon: #33363f;
+  --color-lightgray: #ccc;
+  --color-dimgray: #727272;
+
+  /* Gaps */
+  --gap-xs: 12px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-0: 0px;
+
+  /* border radiuses */
+  --br-mini: 15px;
+  --br-6xs: 7px;
+  --br-2xs: 11px;
+  --br-81xl: 100px;
+}

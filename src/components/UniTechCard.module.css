@@ -1,0 +1,31 @@
+.unitech {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.unitechWrapper {
+  position: absolute;
+  top: 24px;
+  left: 96px;
+  width: 144px;
+  height: 48px;
+}
+.whatsappImage20230908At2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 141px;
+  left: 360px;
+  width: 240px;
+  height: 96px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-dodgerblue);
+  font-family: var(--font-lato);
+}

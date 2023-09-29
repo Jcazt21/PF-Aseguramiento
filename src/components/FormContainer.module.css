@@ -1,0 +1,29 @@
+.txtNombreusuario {
+  position: absolute;
+  top: 215px;
+  left: 14px;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.txtIdusuario {
+  position: absolute;
+  top: 235px;
+  left: 69px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+}
+.txtNombreusuarioParent {
+  position: absolute;
+  top: 107px;
+  left: 1627px;
+  width: 200px;
+  height: 251px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
